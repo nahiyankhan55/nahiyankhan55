@@ -19,3 +19,23 @@
 - 💼 Working on a **Shipping Web Application**
 - 🛠 Improving my **Backend & API development** skills
 - 🎨 Learning better **UI/UX design principles**
+
+---
+
+## 🛠️ Skills
+
+### FrontEnd
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase)](https://skillicons.dev)
+
+### BackEnd
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### Designs
+
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
