@@ -24,18 +24,31 @@
 
 ## 🛠️ Skills
 
-### FrontEnd
+### FrontEnd:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase)](https://skillicons.dev)
 
-### BackEnd
+### BackEnd:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,)](https://skillicons.dev)
 
-### Tools
+### Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-### Designs
+### Designs:
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
+
+---
+
+## 🌐 Social Links
+
+<div>
+
+- 📧 Email: [kushbuladesignmax+++@gmail.com](mailto:kushbuladesignmax+++@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/kushbula-designmax-b07598382/](https://www.linkedin.com/in/kushbula-designmax-b07598382/)
+- 🔗 Facebook: [https://www.facebook.com/nahiyan.01.khan](https://www.facebook.com/nahiyan.01.khan)
+- 🌐 Portfolio: []()
+
+</div>
