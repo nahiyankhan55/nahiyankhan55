@@ -44,11 +44,20 @@
 
 ## 🌐 Social Links
 
-<div>
-
 - 📧 Email: [kushbuladesignmax+++@gmail.com](mailto:kushbuladesignmax+++@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/kushbula-designmax-b07598382/](https://www.linkedin.com/in/kushbula-designmax-b07598382/)
 - 🔗 Facebook: [https://www.facebook.com/nahiyan.01.khan](https://www.facebook.com/nahiyan.01.khan)
 - 🌐 Portfolio: []()
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahiyankhan55&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahiyankhan55&layout=compact&theme=tokyonight" height="160px"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nahiyankhan55&theme=tokyonight" height="180px"/>
 </div>
