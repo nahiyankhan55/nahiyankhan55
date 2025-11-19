@@ -61,3 +61,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nahiyankhan55&theme=tokyonight" height="180px"/>
 </div>
+
+---
+
+### 🌸 Thank You for Visiting!
+
+- Thank you so much for taking the time to explore my profile.
+- Your support and interest truly mean a lot!
+- Feel free to connect with me or check out my projects anytime.
