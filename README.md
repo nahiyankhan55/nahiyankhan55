@@ -46,9 +46,9 @@
 ## 🌐 Social Links
 
 - 📧 Email: [kushbuladesignmax+++@gmail.com](mailto:kushbuladesignmax+++@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/kushbula-designmax-b07598382/](https://www.linkedin.com/in/kushbula-designmax-b07598382/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/kushbula-ahmed-nahiyan/](https://www.linkedin.com/in/kushbula-ahmed-nahiyan/)
 - 🔗 Facebook: [https://www.facebook.com/nahiyan.01.khan](https://www.facebook.com/nahiyan.01.khan)
-- 🌐 Portfolio: []()
+- 🌐 Portfolio: [https://kushbula.netlify.app/](https://kushbula.netlify.app/)
 
 ---
 
